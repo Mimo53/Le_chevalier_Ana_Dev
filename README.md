@@ -12,18 +12,18 @@ Seul l’avenir nous le dira…
 👉 https://github.com/Mimo53/Le_chevalier_Ana_Dev/releases
 
 ### Windows
-- Télécharger MonJeu_Windows.zip
+- Télécharger Le_chevalier_Ana_Dev_Windows.zip
 - Extraire
-- Lancer MonJeu.exe
+- Lancer Le_chevalier_Ana_Dev.exe
 
 ### Linux
-- Télécharger MonJeu_Linux.zip
+- Télécharger Le_chevalier_Ana_Dev_Linux.zip
 - Extraire
-- chmod +x MonJeu.x86_64
+- chmod +x Le_chevalier_Ana_Dev.x86_64
 - Lancer le fichier
 
 ### macOS
-- Télécharger MonJeu_macOS.zip
+- Télécharger Le_chevalier_Ana_Dev_macOS.zip
 - Extraire
 - Clic droit → Ouvrir
 
