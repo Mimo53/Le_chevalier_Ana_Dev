@@ -26,3 +26,5 @@ Seul l’avenir nous le dira…
 - Télécharger MonJeu_macOS.zip
 - Extraire
 - Clic droit → Ouvrir
+
+NB : la version MacOs ne fonctione pas car elle n'a pas de signature
