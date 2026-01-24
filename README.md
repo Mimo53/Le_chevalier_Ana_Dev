@@ -9,7 +9,7 @@ Seul l’avenir nous le dira…
 
 ## Télécharger le jeu
 
-👉 https://github.com/TON_NOM/mon-jeu/releases
+👉 https://github.com/Mimo53/Le_chevalier_Ana_Dev/releases
 
 ### Windows
 - Télécharger MonJeu_Windows.zip
