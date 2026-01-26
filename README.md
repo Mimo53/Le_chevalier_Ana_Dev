@@ -29,5 +29,5 @@ Seul l’avenir nous le dira…
 
 NB : la version MacOs ne fonctione pas car elle n'a pas de signature
 
-👉 Dernière version : v1.1.0
+👉 Dernière version : v1.2.0
 
